@@ -48,7 +48,7 @@ docs_extras = [
 ]
 
 setup(name='pyramid_tm',
-      version='0.12.1',
+      version='0.12.1+experimental',
       description=('A package which allows Pyramid requests to join the '
                    'active transaction'),
       long_description=README + '\n\n' + CHANGES,
